@@ -3,6 +3,9 @@ The use of classification procedures to decode brain activity associated to spec
 We found that attention position was encoded differently after the NF. Specifically, we observed that after NF the spatial prefrontal population code for attention changed dynamically during the cue-to-target interval, showing an alternation between a new code and the pre-NF code. We computed the frequency of this code alternation and we found that both codes systematically alternate within the theta (4-7Hz) band, which is associated with the learning of new contingencies. Interestingly, the phase of this oscillation accounted for significant variations in behavioural performance, suggesting that these NF-induced oscillations impact both function and behavior. 
 These results demonstrate for the first time that (i) the application of attention-related NF modulates how the prefrontal cortex encodes information and (ii) these changes are a functional signature that accounts for behaviour. Altogether, our data envision the feasibility of the NF-based interventions in the attention domain with potential applications in healthy population or as a treatment for attention disorders.
 
+## NeuroFrance 2021 - FENS 2022
+![](ppt/NeuroFrance.png)
+
 ## Time-resolved Results (Developed Toolbox)
 * Cross/Within-temporal Spatial Decoding Map;
 * Temporal Analysis:
