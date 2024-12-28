@@ -241,3 +241,6 @@ For further details, please visit [here](https://github.com/fardinafdideh/binnin
 ![](ppt/Diapositive185.PNG)
 ![](ppt/Diapositive186.PNG)
 ![](ppt/Diapositive187.PNG)
+
+# How to cite
+* **F. Afdideh**, et al, “Neural dynamics of attentional modulation of macaque brains using neurofeedback techniques in an invasive cognitive brain-computer interface setup,” [in preparation](https://github.com/fardinafdideh/covert-attention-invasive-bci).
